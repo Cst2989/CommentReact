@@ -7,6 +7,8 @@ Facebook-like Comment system build with React.js and Firebase. Using Cookies ins
 
 ```
 	> npm install
+	> npm install firebase
+	> npm install reactfire@0.4.0
 	> gulp
 ```
 
